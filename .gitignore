@@ -1,0 +1,22 @@
+# --- Output & Logs ---
+hits.txt
+valid.txt
+*.log
+*.progress
+
+# --- Data Files ---
+# Prevent uploading combo lists or proxies
+*.txt
+*.csv
+sources.json
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# --- OS ---
+.DS_Store
