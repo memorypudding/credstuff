@@ -19,7 +19,7 @@ An asynchronous, modular credential stuffer designed for high concurrency and fl
 1. Clone the repository:
 
    ```
-   git clone https://github.com/YOUR_USERNAME/credstuff.git
+   git clone https://github.com/memorypudding/credstuff.git
    cd credstuff
    ```
 
